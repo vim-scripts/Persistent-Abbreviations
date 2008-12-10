@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2477
+
+This was designed for Medical Transcription work. 
+
+Abbreviations can be added dynamically as you go, and will persist. They are also case smart:
+If you add an abbreviation such as   
+	wrt=with respect to
+then a corresponding abbreviation 
+	Wrt=With respect to
+is also created.
